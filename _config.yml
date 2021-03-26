@@ -100,7 +100,7 @@ author:
   location         : "Seoul, South Korea"
   # email            : ""
   links:
-    - label: "Email"
+    - label: "hkim.9k@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:hkim.9k@gmail.com"
     - label: "Website"
