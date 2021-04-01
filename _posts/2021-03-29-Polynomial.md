@@ -3,9 +3,12 @@ layout: single
 title: "Polynomial"
 categories: 
  - Data Structures
+ - C/C++
 tags:
  - polynomial
  - C++
+ - cpp
+ - programming
  - data structure
 ---
 
@@ -14,7 +17,7 @@ tags:
 #### Using C++
 
 
-
+<br/>
 **polynomial.h [header file]**
 
 ```c++
@@ -49,7 +52,7 @@ private:
 ```
 
 
-
+<br/>
 **polynomial.cpp [source file]**
 
 ```c++
@@ -148,7 +151,7 @@ Polynomial Polynomial::operator+(Polynomial& b)
 ```
 
 
-
+<br/>
 **polynomial_main.cpp [source file]**
 
 ```c++
