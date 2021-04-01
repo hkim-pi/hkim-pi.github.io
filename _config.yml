@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "en-US"
 title                    : "Hannah Note"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Portfolio." # site tagline that appears below site title in masthead
 name                     : "Hansol Kim"
 description              : ""
 url                      : "https://hkim-pi.github.io"
