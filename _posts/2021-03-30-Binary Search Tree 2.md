@@ -3,7 +3,7 @@ layout: single
 title: "Binary Search Tree 2"
 categories: 
  - Data Structures
- - C/C++
+ - Cpp
 tags:
  - binary search tree
  - C++
@@ -13,10 +13,11 @@ tags:
 ---
 
 ### *Binary Search Tree 2*
-
 #### Using C++
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
+<br/>
 <br/>
 **bst2.h [header file]**
 
