@@ -17,8 +17,6 @@ tags:
 #### Using C++
 
 
-
-
 **bst.h [header file]**
 
 ```c++
@@ -122,8 +120,6 @@ void BST<K, E>::Levelorder()
 }
 #endif
 ```
-
-
 
 
 **bst.cpp [source file]**
