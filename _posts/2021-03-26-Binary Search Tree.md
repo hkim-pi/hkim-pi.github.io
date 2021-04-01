@@ -3,7 +3,7 @@ layout: single
 title: "Binary Search Tree"
 categories: 
  - Data Structures
- - C/C++
+ - Cpp
 tags:
  - binary search tree
  - C++
@@ -15,6 +15,7 @@ tags:
 ### *Binary Search Tree*
 
 #### Using C++
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 <br/>
