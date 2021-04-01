@@ -3,7 +3,7 @@ layout: single
 title: "Rectangle"
 categories: 
  - Data Structures
- - C/C++
+ - Cpp
 tags:
  - rectangle
  - class
@@ -15,10 +15,11 @@ tags:
 ---
 
 ### *Rectangle_Class  Implementation & Operator Overloading*
-
 #### Using C++
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
+<br/>
 <br/>
 **rectangle.h [header file]**
 
