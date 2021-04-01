@@ -3,11 +3,14 @@ layout: single
 title: "Rectangle"
 categories: 
  - Data Structures
+ - C/C++
 tags:
  - rectangle
  - class
  - operator overloading
  - C++
+ - cpp
+ - programming
  - data structure
 ---
 
@@ -16,7 +19,7 @@ tags:
 #### Using C++
 
 
-
+<br/>
 **rectangle.h [header file]**
 
 ```c++
@@ -48,7 +51,7 @@ private:
 ```
 
 
-
+<br/>
 **rectangle.cpp [source file]**
 
 ```c++
@@ -118,7 +121,7 @@ bool Rectangle::operator==(Rectangle& s)
 ```
 
 
-
+<br/>
 **rectangle_main.cpp [source file]**
 
 ```c++
