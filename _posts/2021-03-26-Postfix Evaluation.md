@@ -3,7 +3,7 @@ layout: single
 title: "Postfix Evaluation"
 categories: 
  - Data Structures
- - C/C++
+ - Cpp
 tags:
  - postfix evaluation
  - C++
@@ -13,8 +13,8 @@ tags:
 ---
 
 ### *Postfix  Evaluation*
-
 #### Using C++
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 <br/>
