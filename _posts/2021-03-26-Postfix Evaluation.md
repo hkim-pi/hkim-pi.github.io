@@ -3,9 +3,12 @@ layout: single
 title: "Postfix Evaluation"
 categories: 
  - Data Structures
+ - C/C++
 tags:
  - postfix evaluation
  - C++
+ - cpp
+ - programming
  - data structure
 ---
 
@@ -14,7 +17,8 @@ tags:
 #### Using C++
 
 
-
+<br/>
+<br/>
 **postfix.h [header file]**
 
 ```c++
@@ -65,7 +69,7 @@ Token NextToken(Expression&, bool); // 2nd arg=true for infix expression
 ```
 
 
-
+<br/>
 **postfix.cpp [source file]**
 
 ```c++
@@ -253,7 +257,7 @@ void Postfix(Expression e) {
 ```
 
 
-
+<br/>
 **posteval.cpp [source file]**
 
 ```c++
@@ -334,7 +338,7 @@ void Eval(Expression e)
 ```
 
 
-
+<br/>
 **posteval_main.cpp [source file]**
 
 ```c++
