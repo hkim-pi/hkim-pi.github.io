@@ -18,7 +18,8 @@ tags:
 
 
 <br/>
-bst.h [header file]
+<br/>
+**bst.h [header file]**
 
 ```c++
 #pragma once
@@ -124,7 +125,7 @@ void BST<K, E>::Levelorder()
 
 
 <br/>
-bst.cpp [source file]
+**bst.cpp [source file]**
 
 ```c++
 #include "bst.h"
