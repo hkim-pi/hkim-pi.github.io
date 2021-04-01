@@ -3,9 +3,12 @@ layout: single
 title: "Binary Search Tree"
 categories: 
  - Data Structures
+ - C/C++
 tags:
  - binary search tree
  - C++
+ - cpp
+ - programming
  - data structure
 ---
 
