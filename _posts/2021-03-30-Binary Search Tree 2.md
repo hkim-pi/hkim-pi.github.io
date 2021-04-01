@@ -3,9 +3,12 @@ layout: single
 title: "Binary Search Tree 2"
 categories: 
  - Data Structures
+ - C/C++
 tags:
  - binary search tree
  - C++
+ - cpp
+ - programming
  - data structure
 ---
 
@@ -14,7 +17,7 @@ tags:
 #### Using C++
 
 
-
+<br/>
 **bst2.h [header file]**
 
 ```c++
@@ -142,7 +145,7 @@ void BST<K, E>::Levelorder()
 ```
 
 
-
+<br/>
 **bst2.cpp [source file]**
 
 ```c++
