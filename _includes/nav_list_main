@@ -39,6 +39,14 @@
                     {% endif %}
                 {% endfor %}
             </ul>
+            <span class="nav__sub-title">Web Programming</span>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "Pop Quiz" %}
+                        <li><a href="/categories/quiz" class="">Pop Quiz ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
  
       </li>
   </ul>
