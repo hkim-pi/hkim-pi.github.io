@@ -459,8 +459,7 @@ tags:
      print_r($paper);
     ?>
     
-    //-> Array ( [copier] => Copier & Multipurpose [inkjet] => Inkjet Printer [laser] => Laser 
-    //-> Printer [photo] => Photographic Paper )
+    //-> Array ( [copier] => Copier & Multipurpose [inkjet] => Inkjet Printer [laser] => Laser Printer [photo] => Photographic Paper ) 
     ```
 
     <br/>
