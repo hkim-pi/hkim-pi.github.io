@@ -122,7 +122,7 @@ tags:
 
 8. **The "input" tag above shows an attribute called name. This attribute is an attribute that identifies the specific "input" to which this particular attribute belongs. This is the attribute used to name a particular "input". If you have two identical types of "input", how do you use name attribute to distinguish between these different "input"s?**
    
-```
+   ```
    Specify name differently.
    ```
    
@@ -230,7 +230,7 @@ tags:
     ```php
     $name = $_FILES['filename']['name']; 
     
-//-> Two dimension array
+    //-> Two dimension array
     ```
     
     <br/>
