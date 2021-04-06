@@ -30,8 +30,7 @@ tags:
    Yes
    ```
 
-
- <br/>
+   <br/>
 
 2. **Are the names used in PHP case sensitive?**
 
@@ -67,7 +66,7 @@ tags:
    //-> two
    ```
 
-<br/>
+   <br/>
 
 6. **What is the assigned value of the following variable?**
 
@@ -248,7 +247,7 @@ tags:
     //-> s i
     ```
 
-<br/>
+    <br/>
 
 23. **What is the difference between "$s++" and ""++$s" ?**
 
