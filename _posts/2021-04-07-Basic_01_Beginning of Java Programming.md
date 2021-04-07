@@ -78,7 +78,7 @@ tags:
 
 - Object-Oriented Programming(OOP) != Procedure-Oriented Programming
 
-- **Languages used:** Java, C++, C#, Python, JavaScript, Ruby, etc.
+- **Languages Used:** Java, C++, C#, Python, JavaScript, Ruby, etc.
 
 
 
