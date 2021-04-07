@@ -62,9 +62,9 @@ tags:
      in Windows     in Linux
     ```
 
-- - Because it is an object-oriented language, it is easy to maintain and highly scalable.
-- - The program is stable.
-- - It is an open source with rich functionality.
+  - Because it is an object-oriented language, it is easy to maintain and highly scalable.
+  - The program is stable.
+  - It is an open source with rich functionality.
 
 
 
