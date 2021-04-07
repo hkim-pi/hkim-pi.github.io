@@ -90,8 +90,8 @@ tags:
 
 - **Reusable**
 - **Maintenance**
-- **Code management**
-- **Reliable program**
+- **Code Management**
+- **Reliable Program**
 
 
 
