@@ -27,6 +27,13 @@
             </ul>
             <ul>
                 {% for category in site.categories %}
+                    {% if category[0] == "Java" %}
+                        <li><a href="/categories/java" class="">Java ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
                     {% if category[0] == "Data Structures" %}
                         <li><a href="/categories/ds" class="">Data Structures ({{category[1].size}})</a></li>
                     {% endif %}
