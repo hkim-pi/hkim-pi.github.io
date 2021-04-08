@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Basic_02_Expressing Data on the Computer"
+title: "Basic_02_Expressing Data"
 categories: 
  - Java
 tags:
@@ -17,7 +17,7 @@ tags:
  - hexadecimal
 ---
 
-### *Expressing Data on the Computer*
+### *Expressing Data*
 
 
 
@@ -37,7 +37,7 @@ tags:
 
 <br/>
 
-#### **Binary and Decimal**
+#### **Decimal and Binary**
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
